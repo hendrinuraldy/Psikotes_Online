@@ -1,0 +1,8 @@
+{
+    "name": "raldy/psikotes",
+    "require": {
+        "smalot/pdfparser": "^2.12",
+        "dompdf/dompdf": "^3.1",
+        "phpmailer/phpmailer": "*"
+    }
+}
